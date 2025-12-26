@@ -1,0 +1,14 @@
+/home/ali/its/bin/Debug/net8.0/its
+/home/ali/its/bin/Debug/net8.0/its.deps.json
+/home/ali/its/bin/Debug/net8.0/its.runtimeconfig.json
+/home/ali/its/bin/Debug/net8.0/its.dll
+/home/ali/its/bin/Debug/net8.0/its.pdb
+/home/ali/its/obj/Debug/net8.0/its.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/its/obj/Debug/net8.0/its.AssemblyInfoInputs.cache
+/home/ali/its/obj/Debug/net8.0/its.AssemblyInfo.cs
+/home/ali/its/obj/Debug/net8.0/its.csproj.CoreCompileInputs.cache
+/home/ali/its/obj/Debug/net8.0/its.dll
+/home/ali/its/obj/Debug/net8.0/refint/its.dll
+/home/ali/its/obj/Debug/net8.0/its.pdb
+/home/ali/its/obj/Debug/net8.0/its.genruntimeconfig.cache
+/home/ali/its/obj/Debug/net8.0/ref/its.dll

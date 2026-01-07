@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|d:\\uni\\its\\its\\usikker operative systemer\\usikre_op_systemer\\usikre_op_systemer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|solutionrelative:usikre_op_systemer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|d:\\uni\\its\\its\\usikker operative systemer\\usikre_op_systemer\\usikre_op_systemer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|solutionrelative:usikre_op_systemer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|d:\\uni\\its\\its\\usikker operative systemer\\usikre_op_systemer\\usikre_op_systemer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|solutionrelative:usikre_op_systemer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|d:\\uni\\its\\its\\usikker operative systemer\\usikre_op_systemer\\usikre_op_systemer\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|solutionrelative:usikre_op_systemer\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|d:\\uni\\its\\its\\usikker operative systemer\\usikre_op_systemer\\usikre_op_systemer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83F1C5B-AACA-47B0-9384-AF5382F5A1ED}|Usikre_OP_Systemer\\Usikre_OP_Systemer.csproj|solutionrelative:usikre_op_systemer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\obj\\Debug\\net8.0-windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usikre_OP_Systemer\\obj\\Debug\\net8.0-windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Usikre_OP_Systemer\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ToolTip": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeToolTip": "Usikre_OP_Systemer\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwD8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:00:56.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Usikre_OP_Systemer\\App.xaml.cs",
+              "ToolTip": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\App.xaml.cs",
+              "RelativeToolTip": "Usikre_OP_Systemer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:59:13.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Usikre_OP_Systemer\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\AssemblyInfo.cs",
+              "RelativeToolTip": "Usikre_OP_Systemer\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:58:05.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\App.xaml",
+              "RelativeDocumentMoniker": "Usikre_OP_Systemer\\App.xaml",
+              "ToolTip": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\App.xaml",
+              "RelativeToolTip": "Usikre_OP_Systemer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-06T13:58:03.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Usikre_OP_Systemer\\MainWindow.xaml",
+              "ToolTip": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\MainWindow.xaml",
+              "RelativeToolTip": "Usikre_OP_Systemer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-06T13:57:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Usikre_OP_Systemer\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Uni\\ITS\\its\\Usikker Operative Systemer\\Usikre_OP_Systemer\\Usikre_OP_Systemer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Usikre_OP_Systemer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:57:52.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Usikre_OP_Systemer/1.0.0": {
+        "runtime": {
+          "Usikre_OP_Systemer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usikre_OP_Systemer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

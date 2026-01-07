@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kryptologi2/1.0.0": {
+        "runtime": {
+          "kryptologi2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kryptologi2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
